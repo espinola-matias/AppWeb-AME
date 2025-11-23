@@ -7,9 +7,6 @@
 
 > **Una plataforma de asistencia tecnológica diseñada específicamente para devolver la independencia digital a personas con Atrofia Muscular Espinal (AME/SMA) mediante el control por mirada y gestos faciales.**
 
-![Banner del Proyecto](https://via.placeholder.com/1200x600?text=SMA+LifeLink+Preview) 
-*(Reemplaza este link con una captura real de tu proyecto)*
-
 ---
 
 ## 🦾 El Desafío: ¿Por qué AME?
