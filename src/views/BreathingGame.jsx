@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { BigButton } from '../components/BigButton';
-import { Card } from '../components/Card';
+import { BigButton } from '../components.jsx/BigButton';
+import { Card } from '../components.jsx/Card';
 import { ArrowLeft, Trophy, Mic } from 'lucide-react';
 
 export const BreathingGame = ({ navigate }) => {

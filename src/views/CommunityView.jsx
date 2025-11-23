@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Plus, MapPin, Users, Calendar, Heart, MessageCircle, Share2, Check, Cloud, CloudRain, Sun, Filter } from 'lucide-react';
-import { BigButton } from '../components/BigButton';
-import { Card, CardContent } from '../components/Card';
+import { BigButton } from '../components.jsx/BigButton';
+import { Card, CardContent } from '../components.jsx/Card';
 
 // Mock data de eventos
 const mockEvents = [

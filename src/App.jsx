@@ -9,7 +9,7 @@ import { PainMapView } from './views/PainMapView';
 import { CommunityView } from './views/CommunityView';
 import { SocialFeedView } from './views/SocialFeedView';
 import { MedicationView } from './views/MedicationView';
-import { BigButton } from './components/BigButton';
+import { BigButton } from './components.jsx/BigButton';
 import { AlertTriangle, Check, ArrowLeft, Home, Users, Globe, Heart, Activity, Pill, User, LogOut } from 'lucide-react';
 
 // --- IMPORTAMOS EL CEREBRO ---

@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { User, Activity, Ruler, Weight } from 'lucide-react';
-import { BigButton } from '../components/BigButton';
-import { Card, CardHeader, CardTitle, CardContent } from '../components/Card';
+import { BigButton } from '../components.jsx/BigButton';
+import { Card, CardHeader, CardTitle, CardContent } from '../components.jsx/Card';
 
 export function PatientSetup({ onComplete }) {
   const [formData, setFormData] = useState({

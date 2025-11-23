@@ -1,5 +1,5 @@
 import { User, HeartPulse } from 'lucide-react';
-import { BigButton } from '../components/BigButton';
+import { BigButton } from '../components.jsx/BigButton';
 
 export function WelcomeScreen({ onSelectRole }) {
   return (

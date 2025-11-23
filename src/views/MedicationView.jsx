@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Plus, Clock, Bell, ShoppingCart, Calendar, TrendingUp, AlertTriangle, CheckCircle, Pill, FileDown, Snowflake, Sun, Utensils } from 'lucide-react';
-import { BigButton } from '../components/BigButton';
-import { Card, CardContent } from '../components/Card';
+import { BigButton } from '../components.jsx/BigButton';
+import { Card, CardContent } from '../components.jsx/Card';
 
 // Base de datos de medicamentos VIP para SMA
 const medicationsDatabase = [

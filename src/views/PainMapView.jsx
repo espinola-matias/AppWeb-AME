@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { ArrowLeft, X, AlertCircle } from 'lucide-react';
-import { BigButton } from '../components/BigButton';
-import { Card, CardContent } from '../components/Card';
+import { BigButton } from '../components.jsx/BigButton';
+import { Card, CardContent } from '../components.jsx/Card';
 
 // Mock data de reportes anteriores
 const mockReports = [

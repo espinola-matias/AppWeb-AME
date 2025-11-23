@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import { EyeTrackingButton } from '../components/EyeTrackingButton';
-import { BigButton } from '../components/BigButton';
-import { Card, CardTitle, CardContent } from '../components/Card';
-import { MoodSelector } from '../components/MoodSelector';
-import { Timeline } from '../components/Timeline';
+import { EyeTrackingButton } from '../components.jsx/EyeTrackingButton';
+import { BigButton } from '../components.jsx/BigButton';
+import { Card, CardTitle, CardContent } from '../components.jsx/Card';
+import { MoodSelector } from '../components.jsx/MoodSelector';
+import { Timeline } from '../components.jsx/Timeline';
 import { Wind, Activity, Calendar, Users, Play, MessageCircle } from 'lucide-react';
 
 export const PatientHome = ({ navigate, userName = "Blaž" }) => {

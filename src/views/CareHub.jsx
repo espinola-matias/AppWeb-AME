@@ -1,5 +1,5 @@
 import React from 'react';
-import { BigButton } from '../components/BigButton';
+import { BigButton } from '../components.jsx/BigButton';
 import { FileText, Bell, CheckCircle } from 'lucide-react';
 
 export const CareHub = ({ navigate }) => {

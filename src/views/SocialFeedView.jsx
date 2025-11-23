@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Heart, MessageCircle, Share2, Plus, Send, MoreVertical, CheckCircle, MessageSquare } from 'lucide-react';
-import { BigButton } from '../components/BigButton';
+import { BigButton } from '../components.jsx/BigButton';
 
 // Mock data de posts
 const mockPosts = [
